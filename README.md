@@ -8,10 +8,17 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+### Step-1: 
+Import the required libraries.
+### Step-2:
+2. Load the dataset.
+### Step-3:
+3. Define X and Y array.
+### Step-4:
+4. Define a function for costFunction,cost and gradient.
+### Step-5:
+5. Define a function to plot the decision boundary. 6.Define a function to predict the 
+   Regression value. 
 
 ## Program:
 ```
